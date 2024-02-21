@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Franklin-Gothic-Medium';
+  src: url(../src/Assets/Fonts/Franklin\ Gothic\ Medium\ Regular.ttf);
+}
+
 .App {
   text-align: center;
 }
