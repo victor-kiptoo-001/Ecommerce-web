@@ -1,0 +1,16 @@
+#navBarCustom {
+    height:"120px";
+    background-color: '#D7BFD4';
+}
+
+#menuContainer{
+    position: "relative";
+    top: "10px";
+}
+
+div {
+    width:"35px";
+    height: "5px";
+    background-color: "white";
+    margin: "6px 0";
+}
