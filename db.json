@@ -1,0 +1,45 @@
+{
+    "register_stub": {
+      "first_name": "string",
+      "last_name": "string",
+      "email": "string",
+      "password": "string"
+    },
+    "expected_registration_response": {
+      "first_name": "string",
+      "last_name": "string",
+      "email": "string",
+      "is_active": true,
+      "created": "2019-08-24T14:15:22Z",
+      "updated": "2019-08-24T14:15:22Z"
+    },
+    "login_payload": {
+      "username": "string",
+      "password": "string"
+    },
+    "expected_login_response": {
+      "access_token": "string",
+      "token_type": "string",
+      "user": {
+        "first_name": "string",
+        "last_name": "string",
+        "email": "string",
+        "is_active": true,
+        "created": "2019-08-24T14:15:22Z",
+        "updated": "2019-08-24T14:15:22Z"
+      },
+      "expires_in": null
+    }
+  }
+  
+  {
+    
+	"users": [{
+		"first_name": "kim",
+		"last_name": "mbatia",
+		"email": "kim@gmail",
+		"password": "1234"
+	}]
+
+}
+  
